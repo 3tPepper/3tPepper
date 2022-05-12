@@ -1,7 +1,7 @@
 ### 🌈Hi! I make games(just trying)
 > C, JS, Python, 🌱C#    
      
-- project in progress: Bookhunter_Game(textrpg)
+- project in progress: 🔭LoheldiGame, Bookhunter_Game(textrpg)
 - 🌱 I’m currently learning -> C# and Unity
 
 <!--
