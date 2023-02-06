@@ -1,8 +1,8 @@
 ### 🌈Hi! I make games(just trying)
-> C, JS, Python, 🌱C#    
+> C, JS, Python, C#, Unity, 🌱C++    
      
-- project in progress: 🔭LoheldiGame, Bookhunter_Game(textrpg)
-- 🌱 I’m currently learning -> C# and Unity
+- project in progress: 🔭Cpp_Study, Bookhunter_Game(textrpg)
+- 🌱 I’m currently learning -> C++
 
 <!--
 **3tPepper/3tPepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
